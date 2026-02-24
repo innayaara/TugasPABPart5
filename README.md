@@ -9,7 +9,7 @@
 <details>
 <summary><b>1. Pengujian Add Product 3x</b></summary>
 
-Pengujian dilakukan dengan menambahkan satu produk sebanyak tiga kali dengan menekan tombol **Add** secara berulang.  
+Pengujian dilakukan dengan menambahkan satu produk sebanyak tiga kali dengan menekan tombol Add secara berulang.  
 Setelah itu membuka halaman Cart untuk melihat hasilnya.
 
 ### Hasil yang diperoleh:
@@ -30,7 +30,7 @@ Berikut tampilan hasil pengujian:
 Pengujian dilakukan dengan menambahkan beberapa produk berbeda dari halaman Product List tanpa membuka halaman Cart terlebih dahulu.
 
 ### Hasil yang diperoleh:
-- Badge pada icon cart menampilkan jumlah total item secara **real-time**
+- Badge pada icon cart menampilkan jumlah total item secara real-time
 - Angka pada badge sesuai dengan jumlah produk yang ditambahkan
 
 Berikut tampilan hasil pengujian:
@@ -68,7 +68,7 @@ Berikut tampilan hasil pengujian:
 <details>
 <summary><b>4. Pengujian Decrease Quantity sampai 1</b></summary>
 
-Pengujian dilakukan dengan menekan tombol kurang **( - )** hingga quantity tersisa 1.
+Pengujian dilakukan dengan menekan tombol kurang ( - ) hingga quantity tersisa 1.
 
 ### Hasil yang diperoleh:
 - Produk tetap berada di dalam cart
@@ -87,7 +87,7 @@ Berikut tampilan hasil pengujian:
 <details>
 <summary><b>5. Pengujian Decrease Quantity sampai 0</b></summary>
 
-Pengujian dilakukan dengan menekan tombol kurang **( - )** kembali hingga quantity menjadi 0.
+Pengujian dilakukan dengan menekan tombol kurang ( - ) kembali hingga quantity menjadi 0.
 
 ### Hasil yang diperoleh:
 - Produk otomatis terhapus dari cart
@@ -106,7 +106,7 @@ Berikut tampilan hasil pengujian:
 <details>
 <summary><b>6. Pengujian Clear Cart</b></summary>
 
-Pengujian dilakukan dengan menekan tombol **Clear Cart** untuk menghapus seluruh item sekaligus.
+Pengujian dilakukan dengan menekan tombol Clear Cart untuk menghapus seluruh item sekaligus.
 
 ### Hasil yang diperoleh:
 - Semua produk berhasil dihapus
@@ -125,7 +125,7 @@ Berikut tampilan hasil pengujian:
 <details>
 <summary><b>7. Pengujian Navigasi Kembali ke Halaman Produk</b></summary>
 
-Pengujian dilakukan dengan kembali ke halaman **Product List** setelah melakukan perubahan pada cart.
+Pengujian dilakukan dengan kembali ke halaman Product List setelah melakukan perubahan pada cart.
 
 ### Hasil yang diperoleh:
 - Badge tetap menampilkan jumlah item yang sesuai
