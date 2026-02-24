@@ -31,7 +31,9 @@ Pengujian dilakukan dengan menambahkan beberapa produk berbeda dari halaman Prod
 
 Berikut tampilan hasil pengujian:
 
+<img width="848" height="850" alt="image" src="https://github.com/user-attachments/assets/e4a0ac7f-cb29-4c1d-8464-d99bd9c1b8d0" />
 
+<img width="847" height="854" alt="image" src="https://github.com/user-attachments/assets/cdc0a0db-45f2-4450-b079-1847a59ec3d6" />
 
 <!-- Screenshot di sini -->
 
