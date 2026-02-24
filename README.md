@@ -1,6 +1,8 @@
 # 🛒 PART 5: Shopping Cart Hands-On
 
-
+| Nama                      | NIM           | Kelas             |
+|---------------------------|---------------|-------------------|
+| Indah Maramin Al Inayah   | 2409116086    | Sistem Informasi C 2024 |
 
 ---
 
