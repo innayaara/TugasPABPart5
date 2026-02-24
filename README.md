@@ -44,7 +44,7 @@ Berikut tampilan hasil pengujian:
 <details>
 <summary><b>3. Pengujian Increase Quantity</b></summary>
 
-Pengujian dilakukan dengan menekan tombol tambah **( + )** pada salah satu produk di halaman Cart.
+Pengujian dilakukan dengan menekan tombol tambah ( + ) pada salah satu produk di halaman Cart.
 
 ### Hasil yang diperoleh:
 - Quantity bertambah sesuai jumlah klik
@@ -53,7 +53,9 @@ Pengujian dilakukan dengan menekan tombol tambah **( + )** pada salah satu produ
 
 Berikut tampilan hasil pengujian:
 
-<!-- Screenshot di sini -->
+<img width="847" height="854" alt="image" src="https://github.com/user-attachments/assets/865e11c7-ed08-4413-976f-e03ba9af073d" />
+
+<img width="846" height="847" alt="image" src="https://github.com/user-attachments/assets/97e0ca7c-229e-4423-8c9f-816e6e3edda0" />
 
 </details>
 
@@ -70,7 +72,9 @@ Pengujian dilakukan dengan menekan tombol kurang **( - )** hingga quantity tersi
 
 Berikut tampilan hasil pengujian:
 
-<!-- Screenshot di sini -->
+<img width="846" height="847" alt="image" src="https://github.com/user-attachments/assets/b17a8245-3408-400a-963d-17e9be05b9ac" />
+
+<img width="855" height="850" alt="image" src="https://github.com/user-attachments/assets/8fe35ce1-e757-4421-b994-9de5cbc95e1a" />
 
 </details>
 
@@ -87,7 +91,9 @@ Pengujian dilakukan dengan menekan tombol kurang **( - )** kembali hingga quanti
 
 Berikut tampilan hasil pengujian:
 
-<!-- Screenshot di sini -->
+<img width="855" height="850" alt="image" src="https://github.com/user-attachments/assets/228e4b2c-9cf7-431b-979f-8fa8d2fbc5eb" />
+
+<img width="847" height="849" alt="image" src="https://github.com/user-attachments/assets/626109ed-9fc3-41ee-852c-ef24f00b9e92" />
 
 </details>
 
@@ -104,7 +110,9 @@ Pengujian dilakukan dengan menekan tombol **Clear Cart** untuk menghapus seluruh
 
 Berikut tampilan hasil pengujian:
 
-<!-- Screenshot di sini -->
+<img width="843" height="846" alt="image" src="https://github.com/user-attachments/assets/25f2ae40-f01d-4d00-a242-c904f0daef39" />
+
+<img width="850" height="845" alt="image" src="https://github.com/user-attachments/assets/8feb39f9-2a88-4b0e-88ac-32a4b4513782" />
 
 </details>
 
@@ -121,6 +129,8 @@ Pengujian dilakukan dengan kembali ke halaman **Product List** setelah melakukan
 
 Berikut tampilan hasil pengujian:
 
-<!-- Screenshot di sini -->
+<img width="847" height="844" alt="image" src="https://github.com/user-attachments/assets/5a1bd0cc-9b36-41e9-bb22-f4e49d2625c4" />
+
+<img width="854" height="847" alt="image" src="https://github.com/user-attachments/assets/50aaf8a2-1b04-41c9-b881-8ede052a7573" />
 
 </details>
