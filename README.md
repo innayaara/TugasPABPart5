@@ -6,16 +6,15 @@
 <summary><b>1. Pengujian Add Product 3x</b></summary>
 
 Pengujian dilakukan dengan menambahkan satu produk sebanyak tiga kali dengan menekan tombol **Add** secara berulang.  
-Setelah itu membuka halaman **Cart** untuk melihat hasilnya.
+Setelah itu membuka halaman Cart untuk melihat hasilnya.
 
 ### Hasil yang diperoleh:
-- Quantity otomatis menjadi **3**
+- Quantity otomatis menjadi 3
 - Total harga berubah sesuai jumlah item
 
 Berikut tampilan hasil pengujian:
 
-<!-- Masukkan screenshot di sini -->
-<!-- ![Add Product 3x](images/add-3x.png) -->
+<img width="839" height="730" alt="Screenshot 2026-02-23 230231" src="https://github.com/user-attachments/assets/ba56cbf3-16c3-40ef-b3ad-6089c6e2bde5" />
 
 </details>
 
@@ -24,13 +23,15 @@ Berikut tampilan hasil pengujian:
 <details>
 <summary><b>2. Pengujian Add Beberapa Produk Berbeda</b></summary>
 
-Pengujian dilakukan dengan menambahkan beberapa produk berbeda dari halaman **Product List** tanpa membuka halaman Cart terlebih dahulu.
+Pengujian dilakukan dengan menambahkan beberapa produk berbeda dari halaman Product List tanpa membuka halaman Cart terlebih dahulu.
 
 ### Hasil yang diperoleh:
 - Badge pada icon cart menampilkan jumlah total item secara **real-time**
 - Angka pada badge sesuai dengan jumlah produk yang ditambahkan
 
 Berikut tampilan hasil pengujian:
+
+
 
 <!-- Screenshot di sini -->
 
